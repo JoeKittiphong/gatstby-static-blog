@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkzylaah_blog_gatsby=self.webpackChunkzylaah_blog_gatsby||[]).push([[344],{1569:function(e,t,a){a.r(t);var l=a(7294);t.default=function(e){let{data:{markdownRemark:t}}=e;return l.createElement("div",{className:"my-20"},l.createElement("img",{className:"",src:t.frontmatter.cover}),l.createElement("div",{className:"text-sm font-medium"},t.frontmatter.title),l.createElement("div",{dangerouslySetInnerHTML:{__html:t.html}}))}}}]);
+//# sourceMappingURL=component---src-templates-blogs-jsx-1e892272fd01b49d62b1.js.map
